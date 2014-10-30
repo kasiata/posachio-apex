@@ -413,11 +413,11 @@ div.post h3 {
   line-height: default;
 }
 div.post h3 {
-  font-size: 20px;
+  font-size: 18px;
 }
 div.post p {
   font-size: 18px;
-  line-height: 28px;
+  line-height: 24px;
   font-weight: 300;
   margin: 0;
   padding: 10px 0 10px 0;
@@ -428,7 +428,7 @@ div.post ol li {
   margin-left: 40px;
   padding: 10px 0 10px 0;
   line-height: 16pt;
-  font-size: 18px;
+  font-size: 14px;
   font-weight: 300;
 }
 div.post blockquote {
@@ -649,8 +649,8 @@ div.post p.comments a:hover {
   color: #1abc9c;
 }
 div.post h1 {
-  font-size: 30px;
-  line-height: 40px;
+  font-size: 26px;
+  line-height: 36px;
   padding-bottom: 10px;
 }
 div.post h2 {
