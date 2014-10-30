@@ -485,9 +485,9 @@ div.post.whole {
   padding-bottom: 60px;
 }
 div.post div.post-body {
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 28px;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 24px;
 }
 div.post div.post-body .post-content {
   display: block;
@@ -615,16 +615,16 @@ div.post div.post-body .post-content .post-pdf .pdf-fullscreen:hover {
 }
 div.post div.post-body .post-content .post-pdf object {
   display: block;
-  min-height: 400px;
+  min-height: 300px;
 }
 div.post p {
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 28px;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 24px;
 }
 div.post p.read-more,
 div.post p.back {
-  font-size: 16px;
+  font-size: 14px;
 }
 div.post p.read-more a,
 div.post p.back a {
@@ -636,7 +636,7 @@ div.post p.back a:hover {
 }
 div.post p.date {
   color: #999999;
-  font-size: 16px;
+  font-size: 14px;
 }
 div.post p.comments {
   color: #999999;
@@ -649,8 +649,8 @@ div.post p.comments a:hover {
   color: #1abc9c;
 }
 div.post h1 {
-  font-size: 38px;
-  line-height: 46px;
+  font-size: 30px;
+  line-height: 40px;
   padding-bottom: 10px;
 }
 div.post h2 {
@@ -666,9 +666,9 @@ div.post h2 a:hover {
 }
 div.post div.post-body ul li,
 div.post div.post-body ol li {
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 28px;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 24px;
 }
 div.post div.post-info {
   display: block;
