@@ -1,7 +1,7 @@
 @import url(http://postach.io/static/themes/_assets/bootstrap/css/bootstrap.min.css);
 @import url(http://postach.io/static/themes/_assets/bootstrap/css/bootstrap-responsive.min.css);
 @import url(http://postach.io/static/themes/_assets/fontawesome/css/font-awesome.min.css);
-@import url(http://fonts.googleapis.com/css?family=Lora:200,400,400italic);
+@import url(http://fonts.googleapis.com/css?family=Lora:200,300,400italic);
 @import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,500);
 /*---------------------------------------------------
     LESS Elements 0.9.1
@@ -249,7 +249,7 @@ div.header {
   left: 0;
   padding: 0;
   margin: 0;
-  height: 100%;
+  height: 80%;
   margin-left: 0;
   padding: 0 2.12765957% 0 2.12765957%;
 }
