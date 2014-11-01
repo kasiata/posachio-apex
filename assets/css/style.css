@@ -334,18 +334,18 @@ div.header div.site-description {
   padding: 30px 30px 130px 30px;
 }
 div.header div.site-description h1 {
-  font-size: 20px;
-  line-height: 30px;
+  font-size: 16px;
+  line-height: 20px;
   color: #ffffff;
   padding-bottom: 10px;
 }
 div.header div.site-description p {
-  font-size: 16px;
-  line-height: 28px;
+  font-size: 14px;
+  line-height: 24px;
   color: #ffffff;
 }
 div.header div.site-description ul {
-  padding-top: 30px;
+  padding-top: 24px;
 }
 div.header div.site-description ul li {
   padding-bottom: 14px;
@@ -384,8 +384,8 @@ div.header a.logo i {
   position: relative;
   display: block;
   color: #ffffff;
-  font-size: 36px;
-  line-height: 40px;
+  font-size: 30px;
+  line-height: 36px;
   top: 50%;
   margin-top: -20px;
 }
@@ -413,12 +413,12 @@ div.post h3 {
   line-height: default;
 }
 div.post h3 {
-  font-size: 18px;
+  font-size: 14px;
 }
 div.post p {
-  font-size: 18px;
-  line-height: 24px;
-  font-weight: 300;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 200;
   margin: 0;
   padding: 10px 0 10px 0;
 }
@@ -429,12 +429,12 @@ div.post ol li {
   padding: 10px 0 10px 0;
   line-height: 16pt;
   font-size: 14px;
-  font-weight: 300;
+  font-weight: 200;
 }
 div.post blockquote {
   font-size: 20px;
-  line-height: 30px;
-  font-weight: 500;
+  line-height: 24px;
+  font-weight: 300;
   padding: 10px 0 10px 30px;
   margin-top: 10px;
   margin-bottom: 10px;
@@ -467,8 +467,8 @@ div.post ol li {
 }
 div.post blockquote {
   font-size: 20px;
-  line-height: 30px;
-  font-weight: 500;
+  line-height: 24px;
+  font-weight: 300;
   padding: 10px 0 10px 30px;
   margin-top: 10px;
   margin-bottom: 10px;
