@@ -279,7 +279,7 @@ div.header div.title h1 {
   text-align: center;
   font-size: 18px;
   color: #ffffff;
-  font-weight: 300;
+  font-weight: 200;
   padding: 0;
   margin: 0;
 }
@@ -385,7 +385,7 @@ div.header a.logo i {
   display: block;
   color: #ffffff;
   font-size: 30px;
-  line-height: 36px;
+  line-height: 34px;
   top: 50%;
   margin-top: -20px;
 }
@@ -434,7 +434,7 @@ div.post ol li {
 div.post blockquote {
   font-size: 20px;
   line-height: 24px;
-  font-weight: 300;
+  font-weight: 200;
   padding: 10px 0 10px 30px;
   margin-top: 10px;
   margin-bottom: 10px;
@@ -452,7 +452,7 @@ div.post h3 {
 div.post p {
   font-size: 20px;
   line-height: 30px;
-  font-weight: 300;
+  font-weight: 200;
   margin: 0;
   padding: 10px 0 10px 0;
 }
@@ -463,12 +463,12 @@ div.post ol li {
   padding: 10px 0 10px 0;
   line-height: 16pt;
   font-size: 20px;
-  font-weight: 300;
+  font-weight: 200;
 }
 div.post blockquote {
   font-size: 20px;
   line-height: 24px;
-  font-weight: 300;
+  font-weight: 200;
   padding: 10px 0 10px 30px;
   margin-top: 10px;
   margin-bottom: 10px;
@@ -485,7 +485,7 @@ div.post.whole {
   padding-bottom: 60px;
 }
 div.post div.post-body {
-  font-weight: 300;
+  font-weight: 200;
   font-size: 14px;
   line-height: 24px;
 }
@@ -650,7 +650,7 @@ div.post p.comments a:hover {
 }
 div.post h1 {
   font-size: 24px;
-  line-height: 34px;
+  line-height: 30px;
   padding-bottom: 10px;
 }
 div.post h2 {
@@ -666,9 +666,9 @@ div.post h2 a:hover {
 }
 div.post div.post-body ul li,
 div.post div.post-body ol li {
-  font-weight: 300;
+  font-weight: 200;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 20px;
 }
 div.post div.post-info {
   display: block;
